@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/bew/Projects/terraform/MyDotNetApp/MyDotNetApp.csproj",
+      "projectUniqueName": "/Users/bew/Projects/terraform-k8s/MyDotNetApp/MyDotNetApp.csproj",
       "projectName": "MyDotNetApp",
-      "projectPath": "/Users/bew/Projects/terraform/MyDotNetApp/MyDotNetApp.csproj",
+      "projectPath": "/Users/bew/Projects/terraform-k8s/MyDotNetApp/MyDotNetApp.csproj",
       "packagesPath": "/Users/bew/.nuget/packages/",
-      "outputPath": "/Users/bew/Projects/terraform/MyDotNetApp/obj/",
+      "outputPath": "/Users/bew/Projects/terraform-k8s/MyDotNetApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/bew/.nuget/NuGet/NuGet.Config"

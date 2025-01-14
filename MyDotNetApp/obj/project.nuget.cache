@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9Q7QKgfi2sw=",
+  "dgSpecHash": "5JKtWbhcrp8=",
   "success": true,
-  "projectFilePath": "/Users/bew/Projects/terraform/MyDotNetApp/MyDotNetApp.csproj",
+  "projectFilePath": "/Users/bew/Projects/terraform-k8s/MyDotNetApp/MyDotNetApp.csproj",
   "expectedPackageFiles": [
     "/Users/bew/.nuget/packages/microsoft.aspnetcore.openapi/8.0.6/microsoft.aspnetcore.openapi.8.0.6.nupkg.sha512",
     "/Users/bew/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
